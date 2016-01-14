@@ -9,17 +9,17 @@ var
 begin
   for i:=1 to n do for j:=1 to m do readln(arr[i][j]);
 
-  for i:=1 to n do begin
-    for k:=i + 1 to n do begin
+  for j:=1 to m do begin
+    for k:=j + 1 to m do begin
       all_equal := true;
-      for j:=1 to m do begin
-        if(arr[i][j] <> arr[k][j]) then begin
+      for i:=1 to n do begin
+        if(arr[i][j] <> arr[i][k]) then begin
           all_equal := false;
           break;
         end;
       end;
 
-      if(all_equal) then for j:=1 to m do writeln(arr[i][j]);  
+      if(all_equal) then for i:=1 to n do writeln(arr[i][j]);  
     end;
   end;
 end.

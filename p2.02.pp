@@ -4,24 +4,24 @@ const
  m = 3;
 var
  all_minus : boolean;
- i, j, maxi : byte;
+ i, j, maxj : byte;
  arr : array[1..n] of array[1..m] of real;
 begin
   for i:=1 to n do for j:=1 to m do readln(arr[i][j]);
 
-  for j:=1 to m do begin
+  for i:=1 to n do begin
     all_minus := true;
-    maxi := 1;
-    for i:=1 to n do begin
+    maxj := 1;
+    for j:=1 to m do begin
       if(arr[i][j] >= 0) then begin
         all_minus := false;
         break;
       end;
 
-      if(arr[i][j] > arr[maxi][j]) then maxi := i;
+      if(arr[i][j] > arr[i][maxj]) then maxj := j;
     end;
 
-    if (all_minus) then writeln(j, ' is all minus and max is ', arr[maxi][j])
+    if (all_minus) then writeln(i, ' is all minus and max is ', arr[i][maxj])
   end;
 end.
 
