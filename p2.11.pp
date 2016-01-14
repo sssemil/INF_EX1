@@ -17,6 +17,3 @@ begin
     writeln();
   end;
 end.
-
-  
-  

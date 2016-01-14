@@ -7,13 +7,6 @@ var
 begin
   for i:=1 to n do for j:=1 to n do readln(arr[i][j]); 
 
-  for i:=1 to n do begin
-    for j:=1 to n do write(arr[i][j], ' ');
-    writeln();
-  end;
-
-  writeln();
-
   maxi := n;
 
   for i:=1 to n do begin
