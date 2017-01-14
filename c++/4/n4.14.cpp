@@ -1,0 +1,27 @@
+#include <iostream>
+#include <math.h>
+
+int main() {
+    std::cout << "Enter array length: ";
+    int length;
+    std::cin >> length;
+
+    int *arr = new int[length];
+
+    for (int i = 0; i < length; i++) {
+        std::cout << "Enter " << i << " element: ";
+        std::cin >> arr[i];
+    }
+
+    int sum = 0;
+
+    for (int i = 0; i < ceil(length / 2); i++) {
+        if (arr[i * 2 + 1] < 0) {
+            sum += arr[i * 2 + 1];
+        }
+    }
+
+    std::cout << "sum: " << sum;
+
+    return 0;
+}
