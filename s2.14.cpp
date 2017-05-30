@@ -1,31 +1,30 @@
 #include <iostream>
 #include <sstream>
-#include <set>
-#include <algorithm>
 
 using namespace std;
 
-void print(const string& item)
-{
-    cout << item << endl;
-}
-
 int main() {
-    string line, word;
+    string line;
     getline(cin, line);
 
     if (line.length() == 0) {
         return -1;
     }
 
-    set<string> words;
+    string result = "";
 
     istringstream iss(line);
+
+    string word;
     while (iss >> word) {
-        words.insert(word);
+        if (word == "EVM") {
+            result += " computer";
+        } else {
+            result += " " + word;
+        }
     }
 
-    for_each(words.rbegin(), words.rend(), &print);
+    cout<<result<<endl;
 
     return 0;
 }

@@ -9,4 +9,10 @@
 /home/emil/CLionProjects/SysProg2Ex/main.cpp
 iostream
 -
+sstream
+-
+set
+-
+algorithm
+-
 
