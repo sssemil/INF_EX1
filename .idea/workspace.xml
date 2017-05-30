@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="SysProg2Ex" targetName="SysProg2Ex" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dae9798-9961-4477-9046-e3b67d316036" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/a.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/a.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/main.cpp.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/SysProg2Ex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SysProg2Ex.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CMakeCCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CMakeSystem.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdC/CMakeCCompilerId.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.7.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/CXX.includecache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/DependInfo.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/build.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/cmake_clean.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/depend.internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/depend.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/flags.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/link.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/SysProg2Ex.dir/progress.make" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/SysProg2Ex.cbp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.1.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.3.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.4.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.5.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.6.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.7.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.8.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/s2.9.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/4.txt" afterPath="$PROJECT_DIR$/INF_EX1/4.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/5.txt" afterPath="$PROJECT_DIR$/INF_EX1/5.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.01.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.01.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.02.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.02.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.03.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.03.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.04.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.04.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.05.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.05.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.06.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.06.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.07.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.07.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.08.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.08.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.09.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.09.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.10.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.10.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.11.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.11.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.12.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.12.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.13.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.13.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.14.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.14.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.15.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.15.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.16.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.16.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.17.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.17.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.18.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.18.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.19.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.19.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.20.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.20.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.21.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.21.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.22.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.22.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.23.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.23.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.24.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.24.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.25.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.25.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.26.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.26.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.27.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.27.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.28.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.28.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/4/n4.29.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/4/n4.29.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/5/n5.01.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/5/n5.01.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/5/n5.03.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/5/n5.03.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/5/n5.04.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/5/n5.04.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/c++/5/n5.05.cpp" afterPath="$PROJECT_DIR$/INF_EX1/c++/5/n5.05.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.01.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.01.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.02.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.02.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.03.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.03.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.04.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.04.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.05.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.05.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.06.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.06.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.07.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.07.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.08.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.08.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.09.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.09.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.10.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.10.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.11.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.11.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.12.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.12.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.13.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.13.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.14.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.14.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.15.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.15.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.16.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.16.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.17.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.17.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.18.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.18.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.19.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.19.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.20.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.20.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.21.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.21.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.22.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.22.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.23.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.23.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.24.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.24.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.25.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.25.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.26.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.26.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.27.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.27.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.28.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.28.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/4/4.29.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/4/4.29.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.01.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.01.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.02.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.02.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.03.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.03.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.04.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.04.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.05.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.05.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.07.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.07.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.09.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.09.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.10.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.10.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.11.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.11.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.12.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.12.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.13.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.13.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.14.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.14.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.15.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.15.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.16.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.16.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.17.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.17.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.18.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.18.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.19.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.19.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.20.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.20.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.21.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.21.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.22.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.22.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.23.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.23.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.24.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.24.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.25.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.25.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.26.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.26.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.27.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.27.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pascal/5/5.28.pp" afterPath="$PROJECT_DIR$/INF_EX1/pascal/5/5.28.pp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/rename.sh" afterPath="$PROJECT_DIR$/INF_EX1/rename.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stuff/1.jpg" afterPath="$PROJECT_DIR$/INF_EX1/stuff/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stuff/2.jpg" afterPath="$PROJECT_DIR$/INF_EX1/stuff/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stuff/3.jpg" afterPath="$PROJECT_DIR$/INF_EX1/stuff/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/stuff/inform EXAM.pdf" afterPath="$PROJECT_DIR$/INF_EX1/stuff/inform EXAM.pdf" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="s2.7.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/s2.7.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/s2.5.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="63" />
+    <option name="y" value="-4" />
+    <option name="width" value="1857" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysProg2Ex" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SysProg2Ex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SysProg2Ex">
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SysProg2Ex" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SysProg2Ex" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SysProg2Ex" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SysProg2Ex" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SysProg2Ex" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SysProg2Ex" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SysProg2Ex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SysProg2Ex" TARGET_NAME="SysProg2Ex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SysProg2Ex" RUN_TARGET_NAME="SysProg2Ex">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SysProg2Ex" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dae9798-9961-4477-9046-e3b67d316036" name="Default" comment="" />
+      <created>1496152402444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496152402444</updated>
+      <workItem from="1496152404773" duration="3460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3460000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="1204" column="4" lean-forward="false" selection-start-line="1204" selection-start-column="4" selection-end-line="1204" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s2.6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="720" column="6" lean-forward="false" selection-start-line="720" selection-start-column="6" selection-end-line="720" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s2.5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s2.7.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
